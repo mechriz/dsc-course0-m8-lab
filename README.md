@@ -16,11 +16,11 @@ Recommendations are provided separately for **small aircraft** (<20 passengers) 
 ## Repository Structure
 
 ```
+├──aviation_cleaned.csv                          # Cleaned/derived dataset
 ├── AviationData.csv                              # Raw NTSB data
 ├── USState_Codes.csv                             # US state lookup
-├── Aviation_Accidents_Cleaning_COMPLETED.ipynb  # Data cleaning pipeline
-├── Aviation_Accidents_Data_Analysis_COMPLETED.ipynb  # EDA & recommendations
-├── aviation_cleaned.csv                          # Cleaned/derived dataset
+├── Aviation_Accidents_Cleaning.ipynb  # Data cleaning pipeline
+├── Aviation_Accidents_Data_Analysis.ipynb  # EDA & recommendations
 └── README.md                                     # This file
 ```
 
